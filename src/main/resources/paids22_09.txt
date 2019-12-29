@@ -1,0 +1,11 @@
+Azimboy, 200
+Azimboy, 341
+Azimboy, 713, Azimboy:398.68
+Ildar, 923, Ildar:127.30; Ildar:78.99; Ildar:74.99
+Ildar, 769, Ildar:99.45
+Ildar, 767
+Umid, 193
+Umid, 606
+Umid, 441
+Temur, 337
+Temur, 304

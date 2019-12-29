@@ -1,0 +1,4 @@
+Ildar, 10, Ildar:2
+Azimboy, 5
+Umid, 12
+Temur, 3

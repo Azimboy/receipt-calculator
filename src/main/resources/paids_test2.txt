@@ -1,0 +1,4 @@
+Ildar, 1000, Umid:270; Temur:100; Ildar:50
+Umid, 1000, Umid:100
+Azimboy, 700, Ildar:100; Temur:100
+Temur, 500

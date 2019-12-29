@@ -1,0 +1,3 @@
+Ildar, 10, Ildar:2
+Umid, 12
+Temur, 3

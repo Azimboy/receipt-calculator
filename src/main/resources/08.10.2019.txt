@@ -1,0 +1,13 @@
+Azimboy, 200
+Azimboy, 365
+Azimboy, 100, Azimboy:17.44
+Azimboy, 454, Azimboy:217.15
+Umid, 1350
+Umid, 346
+Ildar, 200
+Ildar, 433, Azimboy:46.72
+Ildar, 1923, Ildar:243.8; Umid:121.9; Ildar:94.99; Umid:44.90
+Ildar, 1900, Umid:89.78; Umid:179.56; Umid:79.78; Ildar:39.89; Ildar:39.89; Ildar:184.58; Azimboy:53.32; Umid:53.32; Ildar:53.32
+Temur, 1145, Azimboy:49.78; Umid:49.78; Ildar:49.78
+Temur, 976, Temur:31.83; Temur:17.99; Umid:80.36; Umid:46.79; Umid:224.45; Temur:94.72; Umid:94.72; Ildar:94.72
+Ildar, 500, Ildar:33.20; Ildar:35.90; Ildar:46.79; Ildar:269.34
