@@ -1,0 +1,33 @@
+Temur, 171
+Temur, 339, Temur:26.38; Temur:79.74
+Temur, 157, Temur:39.89; Umid:29.80
+Umid, 75
+Umid, 773
+Umid, 267, Umid:49; Azimboy:49; Ildar:98; Umid:71
+Umid, 291, Umid:25; Temur:39
+Umid, 1050
+Umid, 127, Umid:39; Azimboy:39; Ildar:49
+Umid, 466, Umid:264.09; Umid:39.99; Temur:39.89
+Umid, 880, Umid:151.08; Umid:147.99; Umid:51.50
+Umid, 1775, Umid:80.58; Ildar:32.13; Ildar:76.30; Ildar:207.05; Ildar:622.57; Ildar:134.85; Ildar:176.60; Ildar:258.71; Temur:43.53
+Umid, 867, Umid:119.83; Azimboy:119.83; Ildar:119.83; Temur:45.49; Umid:45.72
+Umid, 647, Umid:20; Azimboy:19.89; Umid:150; Azimboy:149.81; Umid:99.99; Umid:93.59
+Umid, 265, Umid:113.09; Umid:46.99
+Umid, 468, Umid:10.69; Umid:19.16; Umid:54.89
+Umid, 585, Umid:93.86; Umid:59.69
+Ildar, 1987, Ildar:1028.95; Azimboy:99.98; Umid:84.155; Azimboy:84.155; Umid:28.29; Ildar:28.29; Azimboy:28.29
+Ildar, 100
+Ildar, 47.99
+Ildar, 261, Umid:111.89
+Ildar, 1297.98
+Ildar, 47.98
+Azimboy, 245, Umid:59.91
+Azimboy, 1451, Umid:80.99; Azimboy:80.99; Umid:35.34; Umid:69.97; Azimboy:69.97; Temur:69.97; Azimboy:63.99; Umid:5.68; Ildar:5.68; Azimboy:5.68
+Azimboy, 435, Azimboy:59.69; Azimboy:104.99; Azimboy:33.79
+Azimboy, 334, Azimboy:59.17; Azimboy:34.99; Umid:79.42
+Azimboy, 461, Umid:39.19; Azimboy:39.19; Ildar:39.19
+Azimboy, 220, Ildar:40; Umid:40; Azimboy:40
+Azimboy, 920, Azimboy:306.7; Umid:306.7; Ildar:306.7
+Azimboy, 354, Azimboy:32.98; Umid:7.85; Azimboy:7.85; Ildar:7.85; Umid:20; Azimboy:20.79
+Azimboy, 671
+Azimboy, 813, Azimboy:31.88; Azimboy:95.29; Umid:95.29
