@@ -11,7 +11,7 @@ object Calculator {
   }
 
   def main(args: Array[String]): Unit = {
-    val lines = Source.fromInputStream(loadStream("06.12.2019")).getLines()
+    val lines = Source.fromInputStream(loadStream("26.06.2020")).getLines()
 
     val receipts = lines.zipWithIndex.map { case (line, id) =>
       val lines = line.trim.split(",")

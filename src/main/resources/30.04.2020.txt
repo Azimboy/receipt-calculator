@@ -1,0 +1,7 @@
+Azimboy, 1452, Azimboy:228.94; Azimboy:25.18
+Umid, 419, Umid:99.42; Umid:17.97; Azimboy:17.97; Ildar:17.97; Ulugbek:17.97; Suhrob:17.97
+Umid, 666, Umid:47.89; Umid:74.99
+Ildar, 1272
+Suhrob, 1089
+Suhrob, 1559, Umid:14.99; Azimboy:14.99; Ildar:14.99; Ulugbek:14.99; Suhrob:14.99
+Temur, 63

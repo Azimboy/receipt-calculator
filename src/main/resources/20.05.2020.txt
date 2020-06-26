@@ -1,0 +1,14 @@
+Azimboy, 1064, Ildar:42.76; Umid:85.52; Azimboy:42.76; Ulugbek:85.52;
+Azimboy, 1351, Umid:31.68; Azimboy:31.68; Ildar:31.68; Ulugbek:31.68; Suhrob:31.68
+Azimboy, 1041, Umid:10.39; Azimboy:10.39; Ildar:10.39; Temur:10.39; Suhrob:10.39
+Azimboy, 863, Umid:154.9; Umid:30.45; Azimboy:30.45; Ildar:30.45; Ulugbek:30.45; Suhrob:30.45
+Umid, 142, Umid:11.88; Azimboy:11.88; Ildar:11.88; Ulugbek:11.88; Suhrob:11.88
+Umid, 1040, Umid:28.24; Azimboy:28.24; Ildar:28.24; Temur:11.27; Suhrob:28.24; Ulugbek:16.97
+Umid, 255
+Ulugbek, 588.82, Umid:45.37; Azimboy:45.37; Ildar:45.37; Ulugbek:45.37; Suhrob:45.37
+Temur, 196, Umid:22.94; Azimboy:22.94; Ildar:22.94; Temur:22.94; Suhrob:22.94
+Ildar, 479, Umid:47.42; Azimboy:47.42; Ildar:47.42; Ulugbek:47.42; Suhrob:47.42
+Ildar, 1602, Ildar:99.5; Ildar:99.99; Umid:55.33; Azimboy:55.33; Ildar:55.33; Ulugbek:55.33; Suhrob:55.33
+Ildar, 1495
+Ildar, 1160
+Suhrob, 1098, Temur:19.99; Umid:89.32; Azimboy:89.32; Ildar:89.32; Ulugbek:69.32; Suhrob:89.32

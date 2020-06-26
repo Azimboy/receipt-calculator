@@ -1,0 +1,3 @@
+Azimboy, 817, Umid:88.14
+Suhrob, 701, Umid:15.88; Azimboy:15.88; Suhrob:41.14
+Ildar, 1421, Umid:85.63; Azimboy:85.63; Suhrob:14.97; Ildar:85.63
